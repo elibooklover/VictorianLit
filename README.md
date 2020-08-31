@@ -11,7 +11,7 @@ https://github.com/elibooklover/VictorianLit/raw/master/VictorianLit.csv
 ```
 Here is example code to load the VictorianLit dataset: 
 ```
-df=pd.read_csv('https://github.com/elibooklover/VictorianLit/blob/master/VictorianLit.csv')
+df=pd.read_csv('https://github.com/elibooklover/VictorianLit/raw/master/VictorianLit.csv')
 df.head()
 ```
 ---

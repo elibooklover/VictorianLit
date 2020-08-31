@@ -9,13 +9,9 @@ Victorian Lit Dataset for Machine Learning-Based Sentiment Analysis of Victorian
 ```
 https://github.com/elibooklover/VictorianLit/raw/master/VictorianLit.csv
 ```
-Here is example code to load the VictorianLit dataset at Google Colab through Google Drive: 
+Here is example code to load the VictorianLit dataset: 
 ```
-from google.colab import drive
-drive.mount('/content/drive/')
-```
-```
-df=pd.read_csv('drive/My Drive/Colab Notebooks/VictorianLit.csv')
+df=pd.read_csv('https://github.com/elibooklover/VictorianLit/blob/master/VictorianLit.csv')
 df.head()
 ```
 ---
@@ -37,7 +33,30 @@ learning_rate: 1e-5
 epochs (for fine-tuning): 4
 GPU: Tesla T4
 
-The accuracy is XX. Learning loss is. If the batch_size was larger, the accuracy would be higher. If your GPU ram is enough to cover the large batch_size, I recommend you set the batch_size 64 or 128.
+The accuracy is 0.93, and the average training loss is 0.12. If the batch_size was larger, the accuracy would be higher. If your GPU ram is enough to cover the large batch_size, I recommend you set the batch_size 64 or 128.
 ---
 ### Feedback
-The VictorianLit dataset will be continuously updated, added, and tested. Please feel free to suggest changing sentiment values with supporting statements.
+The VictorianLit dataset will be continuously updated, added, and tested. Please feel free to provide any feedback or suggest changing sentiment values with supporting statements.
+---
+### Citation
+Please use the following reference to cite the dataset:
+```
+@misc{Victorian400,
+    author       = {Hoyeol Kim},
+    title        = {{VictorianLit Dataset for Machine Learning-Based Sentiment Analysis of Victorian Literary Texts}},
+    month        = Sep,
+    year         = 2020,
+    publisher    = {GitHub},
+    url          = {https://github.com/elibooklover/VictorianLit}
+    }
+```
+
+or 
+
+```
+Kim, Hoyeol, VictorianLit Dataset for Machine Learning-Based Sentiment Analysis of Victorian Literary Texts, September 2020. GitHub repository: github.com/elibooklover/VictorianLit.
+```
+---
+[License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![License](https://github.com/elibooklover/VictorianLit/blob/master/license.png)

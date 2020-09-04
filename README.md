@@ -40,7 +40,7 @@ I divided the VictorianLit dataset into a training set (80%) and a validation se
 * epochs (for fine-tuning): 4
 * GPU: Tesla T4
 
-The accuracy is 0.93, and the average training loss is 0.12. If the batch_size was larger, the accuracy would be higher. If your GPU ram is enough to cover the large batch_size, I recommend you set the batch_size to 64 or 128.
+The accuracy is 93%, and the average training loss is 0.12. If the batch_size was larger, the accuracy would be higher. If your GPU ram is enough to cover the large batch_size, I recommend you set the batch_size to 64 or 128.
 
 ---
 ### Feedback

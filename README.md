@@ -50,7 +50,7 @@ The VictorianLit dataset will be continuously updated, added upon, and tested. P
 ### Citation
 Please use the following reference to cite the dataset:
 ```
-@misc{Victorian400,
+@misc{VictorianLit,
     author       = {Hoyeol Kim},
     title        = {{VictorianLit Dataset for Machine Learning-Based Sentiment Analysis of Victorian Literary Texts}},
     month        = Sep,

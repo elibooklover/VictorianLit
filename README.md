@@ -20,11 +20,11 @@ There are two columns: sentences and label. The VictorianLit dataset has five la
 
 The VictorianLit dataset, which has 53,826 rows and 2 columns, consists of five different novels from the Victorian era: Charles Dickens' *Little Dorrit* and *Oliver Twist*, Elizabeth Gaskell's *North and South*, George Eliot's *Adam Bede*, and Mary Elizabeth Braddon's *Lady Audley's Secret*. The maximum sentence length of the VictorianLit dataset is 372.
 
-![VictorianLit1](https://github.com/elibooklover/VictorianLit/blob/master/VictorianLit1.png)
+![VictorianLit1](https://elibooklover.github.io/VictorianLit/VictorianLit1.png)
 
-![VictorianLit2](https://github.com/elibooklover/VictorianLit/blob/master/VictorianLit2.png)
+![VictorianLit2](https://elibooklover.github.io/VictorianLit/VictorianLit2.png)
 
-![VictorianLit3](https://github.com/elibooklover/VictorianLit/blob/master/VictorianLit3.png)
+![VictorianLit3](https://elibooklover.github.io/VictorianLit/VictorianLit3.png)
 
 ---
 ### Test Results
@@ -68,4 +68,4 @@ Kim, Hoyeol, VictorianLit Dataset for Machine Learning-Based Sentiment Analysis 
 ---
 [License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-![License](https://github.com/elibooklover/VictorianLit/blob/master/license.png)
+![License](https://elibooklover.github.io/VictorianLit/license.png)

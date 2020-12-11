@@ -7,11 +7,11 @@ VictorianLit Dataset for Machine Learning-Based Sentiment Analysis of Victorian 
 
 ##### You can download the VictorainLit dataset directly by using the following URL: 
 ```
-https://github.com/elibooklover/VictorianLit/raw/master/VictorianLit.csv
+https://elibooklover.github.io/VictorianLit/VictorianLit.csv
 ```
 Here is example code for loading the VictorianLit dataset: 
 ```
-df=pd.read_csv('https://github.com/elibooklover/VictorianLit/raw/master/VictorianLit.csv')
+df=pd.read_csv('https://elibooklover.github.io/VictorianLit/VictorianLit.csv')
 df.head()
 ```
 ---

@@ -1,6 +1,6 @@
 # VictorianLit
 
-VictorianLit Dataset for Machine Learning-Based Sentiment Analysis of Victorian Literary Texts | by Hoyeol Kim
+VictorianLit Dataset for Deep Learning-Based Sentiment Analysis of Victorian Literary Texts | by Hoyeol Kim
 
 ---
 ### Download: [VictorianLit (Kaggle)](https://www.kaggle.com/elibooklover/victorianlit/download)

@@ -50,20 +50,20 @@ The VictorianLit dataset will be continuously updated, added upon, and tested. P
 ### Citation
 Please use the following reference to cite the dataset:
 ```
-@misc{VictorianLit,
+@phdthesis{Kim2022,
     author       = {Hoyeol Kim},
-    title        = {{VictorianLit Dataset for Machine Learning-Based Sentiment Analysis of Victorian Literary Texts}},
-    month        = Sep,
-    year         = 2020,
-    publisher    = {GitHub},
-    url          = {https://github.com/elibooklover/VictorianLit}
-    }
+    title        = {Computational Approaches in the Humanities: from Sentiment Analysis to Deep Learning Colorization},
+    school       = {Texas A&M University},
+    year         = {2022},
+    note         = {Chapter 4: Dickensian Sentiment and Sentiment Analysis of Victorian Novels}
+}
 ```
 
 or 
 
 ```
-Kim, Hoyeol, VictorianLit Dataset for Machine Learning-Based Sentiment Analysis of Victorian Literary Texts, September 2020. GitHub repository: github.com/elibooklover/VictorianLit.
+Kim, Hoyeol. Computational Approaches in the Humanities: from Sentiment Analysis to Deep Learning Colorization. 2022. Texas A&M University, PhD dissertation. Chapter 4: "Dickensian Sentiment and Sentiment Analysis of Victorian Novels."
+
 ```
 ---
 [License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
